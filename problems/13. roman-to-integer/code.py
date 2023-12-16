@@ -14,6 +14,7 @@ class Solution(object):
         "M": 1000
     }
 
+    # helper function
     def convert(self, character: str):
         return self.roman_dict.get(character)
 
