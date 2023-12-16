@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/13. roman-to-integer/test_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/problems/13. roman-to-integer/test_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/20. valid-parentheses/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/problems/20. valid-parentheses/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/20. valid-parentheses/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/problems/20. valid-parentheses/first_approach.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="first_approach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode-mubin" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/20. valid-parentheses/code.py" />
+      <option name="SCRIPT_NAME" value="F:\python\leetcode-mubin\problems\20. valid-parentheses\first_approach.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +116,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_case.py" />
-        <item itemvalue="Python.code" />
+        <item itemvalue="Python.first_approach" />
       </list>
     </recent_temporary>
   </component>
