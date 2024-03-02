@@ -23,7 +23,7 @@ def demat(time):
     if f3 < 0:
         f3 = 60 + f3
 
-    ftime = str(f1) + ":" + str(f2) + ":" + str(f3) + "AM"
+    ftime = str(f1) + ":" + str(f2) + ":" + str(f3)
 
     return ftime
 

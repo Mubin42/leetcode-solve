@@ -1,5 +1,3 @@
-
-
 num = [-74, 0, -44, 100, 9]
 
 for j in range(len(num)):
