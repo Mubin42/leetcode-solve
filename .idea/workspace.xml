@@ -59,6 +59,8 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python tests.Python tests in roman_to_integer.py.executor": "Run",
     "Python tests.Python tests in test_case.py.executor": "Run",
+    "Python.215.KthLargestNumberArray.executor": "Run",
+    "Python.217.Contains Duplicate.executor": "Run",
     "Python.BasicDataTypes.executor": "Run",
     "Python.BubbleSort.executor": "Run",
     "Python.FindAString.executor": "Run",
@@ -83,9 +85,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/webdev-projects/Healthdemo/Healthdemo",
     "settings.editor.selected.configurable": "settings.qodana"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\User\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="b8762d81-cd4e-4d91-b700-9f09b4a68391" reportId="leetcode-mubin/qodana/2024-03-10" />
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\python\leetcode-mubin\problems" />
@@ -239,7 +247,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
