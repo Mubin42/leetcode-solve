@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
     "Python tests.Python tests in test_case.py.executor": "Run",
     "Python.215.KthLargestNumberArray.executor": "Run",
     "Python.217.Contains Duplicate.executor": "Run",
+    "Python.49.Group Anagram.executor": "Run",
     "Python.BasicDataTypes.executor": "Run",
     "Python.BubbleSort.executor": "Run",
     "Python.FindAString.executor": "Run",
@@ -77,6 +77,7 @@
     "Python.TextWrap.executor": "Run",
     "Python.TimeConversion.executor": "Run",
     "Python.Tuples.executor": "Run",
+    "Python.ValidAnagram.executor": "Run",
     "Python.capitalize.executor": "Run",
     "Python.code.executor": "Run",
     "Python.encryption.executor": "Run",
