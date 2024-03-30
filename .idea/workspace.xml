@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/242.Valid Anagram/ValidAnagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/242.Valid Anagram/ValidAnagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +71,15 @@
     "Python.IntroductionToSets.executor": "Run",
     "Python.LeapYear.executor": "Run",
     "Python.Mutable.executor": "Run",
+    "Python.ReplaceElement.executor": "Run",
     "Python.SelectionSort.executor": "Run",
     "Python.SetAdd.executor": "Run",
+    "Python.SingleNumber.executor": "Run",
     "Python.SplitAndJoin.executor": "Run",
     "Python.SwapCase.executor": "Run",
     "Python.TextWrap.executor": "Run",
     "Python.TimeConversion.executor": "Run",
+    "Python.TopKFrequentElements.executor": "Run",
     "Python.Tuples.executor": "Run",
     "Python.ValidAnagram.executor": "Run",
     "Python.capitalize.executor": "Run",

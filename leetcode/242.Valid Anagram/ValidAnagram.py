@@ -2,6 +2,7 @@
 242. Valid Anagram
 Link: https://leetcode.com/problems/valid-anagram/description/
 Status: Solved
+Comments: Day - 1: Solved in 20 minutes.
 """
 
 
