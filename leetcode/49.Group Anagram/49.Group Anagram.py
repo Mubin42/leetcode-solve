@@ -11,6 +11,7 @@ class Solution:
         hash_map = defaultdict(list)
         result = []
 
+
         for item in strs:
             sorted_string = tuple(sorted(item))
             hash_map[sorted_string].append(item)

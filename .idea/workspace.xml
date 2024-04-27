@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/242.Valid Anagram/ValidAnagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/242.Valid Anagram/ValidAnagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/136.Single Number/SingleNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/136.Single Number/SingleNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/49.Group Anagram/49.Group Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/49.Group Anagram/49.Group Anagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +30,12 @@
     &quot;assignee&quot;: &quot;Mubin42&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="53620d31-32e4-4327-a083-ac5e8ab9c6ee" />
-        <option name="url" value="https://github.com/Mubin42/leetcode-solve.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mubin42/leetcode-solve.git&quot;,
+    &quot;accountId&quot;: &quot;53620d31-32e4-4327-a083-ac5e8ab9c6ee&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -70,6 +69,7 @@
     "Python.IncorrectRegex.executor": "Run",
     "Python.IntroductionToSets.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.LengthOfLastWord.executor": "Run",
     "Python.Mutable.executor": "Run",
     "Python.ReplaceElement.executor": "Run",
     "Python.SelectionSort.executor": "Run",
@@ -252,7 +252,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
