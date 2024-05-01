@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/TopKFrequentElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/TopKFrequentElements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +68,10 @@
     "Python.IntroductionToSets.executor": "Run",
     "Python.LeapYear.executor": "Run",
     "Python.LengthOfLastWord.executor": "Run",
+    "Python.MergeStringsAlternately.executor": "Run",
     "Python.Mutable.executor": "Run",
     "Python.ReplaceElement.executor": "Run",
+    "Python.ReverseString.executor": "Run",
     "Python.SelectionSort.executor": "Run",
     "Python.SetAdd.executor": "Run",
     "Python.SingleNumber.executor": "Run",
@@ -80,7 +81,9 @@
     "Python.TimeConversion.executor": "Run",
     "Python.TopKFrequentElements.executor": "Run",
     "Python.Tuples.executor": "Run",
+    "Python.TwoSumII.executor": "Run",
     "Python.ValidAnagram.executor": "Run",
+    "Python.ValidPalindrome.executor": "Run",
     "Python.ValidParentheses.executor": "Run",
     "Python.capitalize.executor": "Run",
     "Python.code.executor": "Run",
