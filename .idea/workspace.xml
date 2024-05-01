@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/136.Single Number/SingleNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/136.Single Number/SingleNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/49.Group Anagram/49.Group Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/49.Group Anagram/49.Group Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/TopKFrequentElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/TopKFrequentElements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +81,7 @@
     "Python.TopKFrequentElements.executor": "Run",
     "Python.Tuples.executor": "Run",
     "Python.ValidAnagram.executor": "Run",
+    "Python.ValidParentheses.executor": "Run",
     "Python.capitalize.executor": "Run",
     "Python.code.executor": "Run",
     "Python.encryption.executor": "Run",
@@ -91,7 +91,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/webdev-projects/Healthdemo/Healthdemo",
-    "settings.editor.selected.configurable": "settings.qodana"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="QodanaReportsService">
@@ -241,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SwapCase" />
+        <item itemvalue="Python.Mutable" />
+        <item itemvalue="Python.LeapYear" />
         <item itemvalue="Python.IncorrectRegex" />
         <item itemvalue="Python.BasicDataTypes" />
-        <item itemvalue="Python.Mutable" />
-        <item itemvalue="Python.SwapCase" />
-        <item itemvalue="Python.LeapYear" />
       </list>
     </recent_temporary>
   </component>

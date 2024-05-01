@@ -3,7 +3,8 @@ from collections import defaultdict
 347. Top K Frequent Elements
 Link: https://leetcode.com/problems/top-k-frequent-elements/description/
 Status: Unsolved
-Comments: Day - 1: Could not solve the problem.
+Comments:   Day - 1: Could not solve the problem.
+            Day - 2: Could not solve as well.
 """
 
 
