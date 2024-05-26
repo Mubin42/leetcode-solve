@@ -9,15 +9,11 @@ from typing import List
 def divisibleSumPairs(n: int, k: int, ar: List[int]) -> int:
     # Write your code here
     count = 0
-
     for i in range(0, n):
-        for j in range(i+1, n):
+        for j in range(i + 1, n):
             if i < j:
-                total = ar[i] + ar[j]
-                if total % k == 0:
+                if (ar[i] + ar[j]) % k == 0:
                     count += 1
-                    print(f"({ar[i]},{ar[j]})", end=" ")
-        print()
     return count
 
 

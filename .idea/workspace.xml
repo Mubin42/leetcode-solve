@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/1299.Replace Elements With Greatest Element On Right Side/ReplaceElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/1299.Replace Elements With Greatest Element On Right Side/ReplaceElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/DivisibleSumPairs/DivisibleSumPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/DivisibleSumPairs/DivisibleSumPairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/webdev-projects/Healthdemo/Healthdemo",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="QodanaReportsService">
@@ -112,7 +112,7 @@
       <recent name="F:\python\leetcode-mubin\easy\roman_to_int" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="BasicDataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode-mubin" />
       <option name="ENV_FILES" value="" />
