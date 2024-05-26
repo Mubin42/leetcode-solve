@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d91a95e-9af9-4914-ad4a-47b38a5cc7c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/1299.Replace Elements With Greatest Element On Right Side/ReplaceElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/1299.Replace Elements With Greatest Element On Right Side/ReplaceElement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +62,11 @@
     "Python.49.Group Anagram.executor": "Run",
     "Python.BasicDataTypes.executor": "Run",
     "Python.BubbleSort.executor": "Run",
+    "Python.DivisibleSumPairs.executor": "Run",
     "Python.FindAString.executor": "Run",
     "Python.FindSecondMaximum.executor": "Run",
     "Python.FindingThePercentage.executor": "Run",
+    "Python.GradingStudents.executor": "Run",
     "Python.IncorrectRegex.executor": "Run",
     "Python.IntroductionToSets.executor": "Run",
     "Python.LeapYear.executor": "Run",
